@@ -40,7 +40,7 @@
     </td>
     <td valign="center">
       <h1>Gabriel Moreira</h1>
-      <p> <b>Estudante de Desenvolvimento de Sistemas</b> (2º Semestre)</p>
+      <p> <b>Estudante de Desenvolvimento de Sistemas</b> (2º Semestre no SENAI)</p>
       <p> <b>Aspirante a Analista de Cibersegurança</b></p>
       <p> <b>Linguagens: Java, MySql, Python, JScript e TypeScript</b></p>
       <p><b>Conhecimentos em Springboot e REST APIs</b></p>
